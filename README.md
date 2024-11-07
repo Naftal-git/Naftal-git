@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Naftal-git
-- 👀 I’m interested in SQL, PYTHON and C++ 🌱 I’m currently learning 
+- 👀  I’m currently learning 
 - 💞️ I’m looking to collaborate on various projects.
 
 <!---
